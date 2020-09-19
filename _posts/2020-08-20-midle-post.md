@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "بداية الرحلة"
+title: بداية الرحلة
 language: ar
-date:   2020-09-02 22:20:30 +0300
-# categories: jekyll update
----
+date: 2020-09-02T22:20:30.000+03:00
+background: "/uploads/1dcf87fc0510d6e3334538992fce33dd.jpg"
 
+---
 السلام عليكم ورحة الله وبركاته اخواني وأخواتي في الانسانية
 
 
