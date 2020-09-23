@@ -19,5 +19,3 @@ fields:
   config:
     maxSize: 64
   label: background
-pages:
-- _posts/2020-08-20-midle-post.md
