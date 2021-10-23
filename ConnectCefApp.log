@@ -1,0 +1,122 @@
+[2021-10-09 16:01:46.291478] [0x00000588] (info) : Connect CEF app
+[2021-10-09 16:01:46.293477] [0x00000588] (info) : 2021,3,27,64h
+[2021-10-09 16:01:46.293477] [0x00000588] (info) : Memory 7.900 GB
+[2021-10-09 16:01:46.359448] [0x00000588] (info) : Not enabling crash reporter for processid=9884
+[2021-10-09 16:01:46.661266] [0x0000282c] (info) : CameraManager: Media Foundation camera
+[2021-10-09 16:01:46.770203] [0x0000282c] (info) : Not enabling crash reporter for processid=3568
+[2021-10-09 16:01:46.878192] [0x0000282c] (info) : CameraManager: Media Foundation camera
+[2021-10-09 16:01:48.658461] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectAppWrapper : Setting connection type as RTMP
+[2021-10-09 16:01:48.673452] [0x00000588] (warning) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : The "subtle" variant of Link is deprecated. Please use variant="quiet" instead.
+[2021-10-09 16:01:48.768398] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : MeetingViewModel : onLocalizationComplete : time to call mainMeetingModule connect
+[2021-10-09 16:01:48.847379] [0x0000282c] (info) : Creating RTMP Connectionnhandler
+[2021-10-09 16:01:48.847379] [0x0000282c] (info) : CRtmpConnectionHandler::getHostNameAndPort fetching hostname and port 
+[2021-10-09 16:01:48.847379] [0x0000282c] (info) : CRtmpConnectionHandler::getHostNameAndPort fetching hostname and port done 
+[2021-10-09 16:01:48.847379] [0x0000282c] (info) : CRtmpConnectionHandler::connect identifying  host emea1fms10.adobeconnect.com and port: 1935 
+[2021-10-09 16:01:48.847379] [0x0000282c] (debug) : WinHttpGetProxy::GetProxyServerForUrl auto detecting proxy.
+[2021-10-09 16:01:48.847379] [0x0000282c] (error) : No proxy found for this url. Error code : 12180.
+[2021-10-09 16:01:48.847379] [0x0000282c] (info) : CRtmpConnectionHandler::connect RTMP Connecting to rtmp://emea1fms10.adobeconnect.com:1935/?rtmp://localhost:8506/flvplayeras3app/2366452381/8707104232-1/output/ with  pacProxyFlag: false 
+[2021-10-09 16:01:49.298201] [0x0000282c] (info) : CRtmpConnectionHandler::onStatus conn=rtmp://emea1fms10.adobeconnect.com:1935/?rtmp://localhost:8506/flvplayeras3app/2366452381/8707104232-1/output/ code="NetConnection.Connect.Success", type="status", description="Connection succeeded.", details="FMS/5,0,16,5016"
+[2021-10-09 16:01:50.179016] [0x0000282c] (info) : CNetStreamHandler nsID_0 :: onStatus() :: Success
+[2021-10-09 16:01:50.289343] [0x0000282c] (info) : CNetStreamHandler nsID_1 :: onStatus() :: Success
+[2021-10-09 16:01:50.289343] [0x0000282c] (info) : CNetStreamHandler nsID_2 :: onStatus() :: Success
+[2021-10-09 16:01:50.508132] [0x0000282c] (info) : CNetStreamHandler nsID_0 :: onStatus() :: NetStream.Play.Reset
+[2021-10-09 16:01:50.508132] [0x0000282c] (info) : CNetStreamHandler nsID_0 :: onStatus() :: NetStream.Play.Start
+[2021-10-09 16:01:50.508132] [0x0000282c] (info) : CNetStreamHandler nsID_0 :: onStatus() :: NetStream.Data.Start
+[2021-10-09 16:01:50.508132] [0x0000282c] (info) : CNetStreamHandler nsID_0 :: onStatus() :: NetStream.Data.Start
+[2021-10-09 16:01:50.526123] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : ConnectVideoManager updateVideoUI() Triggering UI updates - heavy operation
+[2021-10-09 16:01:50.617348] [0x0000282c] (info) : CNetStreamHandler nsID_0 :: onStatus() :: NetStream.Play.Stop
+[2021-10-09 16:01:50.617348] [0x0000282c] (info) : CNetStreamHandler nsID_0 :: onStatus() :: NetStream.Play.Start
+[2021-10-09 16:01:50.617348] [0x0000282c] (info) : CNetStreamHandler nsID_0 :: onStatus() :: NetStream.Data.Start
+[2021-10-09 16:01:50.617348] [0x0000282c] (error) : RTMP Log, D:\Adobe\workspace\ConnectCefApp_Master\Extern\Adobe\rtmp_sdk\RTMP\source\fmpcore\source\rtmpmesginterpreter.cpp:107 :: [RTMPMsg Interpreter]: Message sink not found
+[2021-10-09 16:01:50.617348] [0x0000282c] (error) : RTMP Log, D:\Adobe\workspace\ConnectCefApp_Master\Extern\Adobe\rtmp_sdk\RTMP\source\fmpcore\source\rtmpmesginterpreter.cpp:107 :: [RTMPMsg Interpreter]: Message sink not found
+[2021-10-09 16:01:50.617348] [0x0000282c] (error) : RTMP Log, D:\Adobe\workspace\ConnectCefApp_Master\Extern\Adobe\rtmp_sdk\RTMP\source\fmpcore\source\rtmpmesginterpreter.cpp:107 :: [RTMPMsg Interpreter]: Message sink not found
+[2021-10-09 16:01:50.617348] [0x0000282c] (error) : RTMP Log, D:\Adobe\workspace\ConnectCefApp_Master\Extern\Adobe\rtmp_sdk\RTMP\source\fmpcore\source\rtmpmesginterpreter.cpp:107 :: [RTMPMsg Interpreter]: Message sink not found
+[2021-10-09 16:01:50.617348] [0x0000282c] (error) : RTMP Log, D:\Adobe\workspace\ConnectCefApp_Master\Extern\Adobe\rtmp_sdk\RTMP\source\fmpcore\source\rtmpmesginterpreter.cpp:107 :: [RTMPMsg Interpreter]: Message sink not found
+[2021-10-09 16:01:50.617348] [0x0000282c] (error) : RTMP Log, D:\Adobe\workspace\ConnectCefApp_Master\Extern\Adobe\rtmp_sdk\RTMP\source\fmpcore\source\rtmpmesginterpreter.cpp:107 :: [RTMPMsg Interpreter]: Message sink not found
+[2021-10-09 16:01:50.661053] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : ConnectVideoManager updateVideoUI() Triggering UI updates - heavy operation
+[2021-10-09 16:01:50.671001] [0x00000588] (warning) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : The "subtle" variant of Link is deprecated. Please use variant="quiet" instead.
+[2021-10-09 16:01:50.724041] [0x0000282c] (info) : CNetStreamHandler nsID_3 :: onStatus() :: Success
+[2021-10-09 16:01:50.831948] [0x0000282c] (info) : CNetStreamHandler nsID_4 :: onStatus() :: Success
+[2021-10-09 16:01:50.831948] [0x0000282c] (info) : CNetStreamHandler nsID_5 :: onStatus() :: Success
+[2021-10-09 16:01:50.942248] [0x0000282c] (info) : CNetStreamHandler nsID_3 :: onStatus() :: NetStream.Play.Reset
+[2021-10-09 16:01:50.942248] [0x0000282c] (info) : CNetStreamHandler nsID_3 :: onStatus() :: NetStream.Play.Start
+[2021-10-09 16:01:50.942248] [0x0000282c] (info) : CNetStreamHandler nsID_3 :: onStatus() :: NetStream.Data.Start
+[2021-10-09 16:01:50.942248] [0x0000282c] (info) : CNetStreamHandler nsID_3 :: onStatus() :: NetStream.Data.Start
+[2021-10-09 16:01:50.942248] [0x0000282c] (info) : CNetStreamHandler nsID_3 :: onStatus() :: NetStream.Play.Stop
+[2021-10-09 16:01:51.049639] [0x0000282c] (info) : CNetStreamHandler nsID_4 :: onStatus() :: NetStream.Play.Reset
+[2021-10-09 16:01:51.049639] [0x0000282c] (info) : CNetStreamHandler nsID_4 :: onStatus() :: NetStream.Play.Start
+[2021-10-09 16:01:51.049639] [0x0000282c] (info) : CNetStreamHandler nsID_4 :: onStatus() :: NetStream.Data.Start
+[2021-10-09 16:01:51.049639] [0x0000282c] (info) : CNetStreamHandler nsID_5 :: onStatus() :: NetStream.Play.Reset
+[2021-10-09 16:01:51.049639] [0x0000282c] (info) : CNetStreamHandler nsID_5 :: onStatus() :: NetStream.Play.Start
+[2021-10-09 16:01:51.049639] [0x0000282c] (info) : CNetStreamHandler nsID_5 :: onStatus() :: NetStream.Data.Start
+[2021-10-09 16:01:51.049639] [0x0000282c] (info) : CNetStreamHandler nsID_4 :: onStatus() :: NetStream.Data.Start
+[2021-10-09 16:01:51.049639] [0x0000282c] (info) : CNetStreamHandler nsID_4 :: onStatus() :: NetStream.Play.Stop
+[2021-10-09 16:01:51.049639] [0x0000282c] (info) : CNetStreamHandler nsID_5 :: onStatus() :: NetStream.Data.Start
+[2021-10-09 16:01:51.158924] [0x0000282c] (info) : CNetStreamHandler nsID_5 :: onStatus() :: NetStream.Play.Stop
+[2021-10-09 16:01:52.034591] [0x0000282c] (info) : CNetStreamHandler nsID_2 :: onStatus() :: NetStream.Play.Reset
+[2021-10-09 16:01:52.034591] [0x0000282c] (info) : CNetStreamHandler nsID_2 :: onStatus() :: NetStream.Play.Start
+[2021-10-09 16:01:52.034591] [0x0000282c] (info) : CNetStreamHandler nsID_2 :: onStatus() :: NetStream.Data.Start
+[2021-10-09 16:01:52.034591] [0x0000282c] (info) : CNetStreamHandler nsID_2 :: onStatus() :: NetStream.Data.Start
+[2021-10-09 16:01:52.034591] [0x0000282c] (info) : CNetStreamHandler nsID_2 :: onStatus() :: NetStream.Play.Stop
+[2021-10-09 16:01:52.145449] [0x0000282c] (info) : CNetStreamHandler nsID_6 :: onStatus() :: Success
+[2021-10-09 16:01:53.499534] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : className?? : AudioStreamManager_id 5148 :: handlePauseResumeRecording : Resuming all recording audio streams
+[2021-10-09 16:01:54.130464] [0x00000588] (error) : JS : (index.htm?aicc_url=https%3A%2F%2Faltinbasuzem.adobeconnect.com%2Fservlet%2Fverify%3Fsco-id%3D8707102471&aicc_sid=3gv5vgkyvgu44n5o4q4y8wh7svnh7exp&airspeed=1&capi_player=1&isLive=false&ticket=3gv5vgkyvgu44n5o4q4y8wh7svnh7exp&capi_player=1&isSourcePresent=true&isSupported=true&userLanguage=tr:0) : Refused to execute script from 'https://altinbasuzem.adobeconnect.com/_a2366452381/pfktsfc41hha/default/data/resources/ha/wr_/OpenAjaxManagedHub-all.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled.
+[2021-10-09 16:01:57.100328] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : RecordingStreamManager : Stream added [{"startTime":3664,"streamId":"cameraVoip_0","streamName":"/cameraVoip_0_3","streamPublisherID":2,"streamType":"cameraVoip"}]
+[2021-10-09 16:01:57.101275] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : ConnectVideoManager updateVideoUI() Triggering UI updates - heavy operation
+[2021-10-09 16:01:57.103272] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : className?? : AudioVideoStreamHandler setCreated() mediaType : audio
+[2021-10-09 16:01:57.104272] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : className?? : uid->-1. Active FMS Server is Default
+[2021-10-09 16:01:57.105277] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : className?? : AudioVideoStreamHandler play() mediaType : audio
+[2021-10-09 16:01:57.106276] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : className?? : AudioStreamManager_id 5148 :: addAudioStreamWrapper for userId: cameraVoip_0
+[2021-10-09 16:01:57.106276] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : AudioWrapper : nsID_7 Subscriber audioWrapper ready
+[2021-10-09 16:01:57.106276] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : className?? : AudioVideoStreamHandler play() mediaType : audio
+[2021-10-09 16:01:57.107273] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : AudioWrapper : nsID_7 audioWrapper playing
+[2021-10-09 16:01:57.182463] [0x0000282c] (info) : CNetStreamHandler nsID_7 :: onStatus() :: Success
+[2021-10-09 16:01:57.508830] [0x0000282c] (info) : CNetStreamHandler nsID_7 :: onStatus() :: NetStream.Play.Reset
+[2021-10-09 16:01:57.508830] [0x0000282c] (info) : CNetStreamHandler nsID_7 :: onStatus() :: NetStream.Play.Start
+[2021-10-09 16:01:57.508830] [0x0000282c] (info) : CNetStreamHandler nsID_7 :: onStatus() :: NetStream.Data.Start
+[2021-10-09 16:01:57.508830] [0x0000282c] (info) : CNetStreamHandler nsID_7 :: onStatus() :: NetStream.Data.Start
+[2021-10-09 16:01:58.169409] [0x0000282c] (info) : Codec used is nelly
+[2021-10-09 16:01:58.281350] [0x0000282c] (info) : AudioPlayback : Starting the Audio rendering thread
+[2021-10-09 16:01:59.878437] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : Playbar : Going forward by time:  130
+[2021-10-09 16:01:59.878437] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : className?? : AudioStreamManager_id 5148 :: handlePauseResumeRecording : Stopping all recording audio streams
+[2021-10-09 16:01:59.878437] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : AudioWrapper : nsID_7 audioWrapper paused
+[2021-10-09 16:01:59.882434] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : ConnectVideoManager updateVideoUI() Triggering UI updates - heavy operation
+[2021-10-09 16:01:59.882434] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : ConnectVideoManager updateStreamSize VideoCellInfo for user 2 on updateStreamSize :
+[2021-10-09 16:01:59.882434] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : [object Object]
+[2021-10-09 16:01:59.883433] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : ConnectVideoManager updateVideoUI() Triggering UI updates - heavy operation
+[2021-10-09 16:01:59.883433] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : ConnectVideoManager updateVideoUI() Triggering UI updates - heavy operation
+[2021-10-09 16:01:59.886430] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : ConnectVideoManager updateVideoUI() Triggering UI updates - heavy operation
+[2021-10-09 16:01:59.888448] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : ConnectVideoManager updateVideoUI() Triggering UI updates - heavy operation
+[2021-10-09 16:01:59.890447] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : className?? : AudioStreamManager_id 5148 :: handlePauseResumeRecording : Resuming all recording audio streams
+[2021-10-09 16:01:59.890447] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : AudioWrapper : nsID_7 audioWrapper playing
+[2021-10-09 16:01:59.891446] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : className?? : AudioVideoStreamHandler play() mediaType : audiovideo
+[2021-10-09 16:01:59.921543] [0x0000282c] (warning) : AudioPlayback : Wanted 480 frames got 0 frames
+[2021-10-09 16:01:59.921543] [0x0000282c] (warning) : AudioPlayback : StreamId = 1, buffer = 0
+[2021-10-09 16:01:59.943109] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : ConnectVideoManager updateVideoUI() Triggering UI updates - heavy operation
+[2021-10-09 16:01:59.951092] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : className?? : AudioVideoStreamHandler play() mediaType : video
+[2021-10-09 16:01:59.959084] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : ConnectVideoManager updateStreamSize VideoCellInfo for user 2 on updateStreamSize :
+[2021-10-09 16:01:59.959084] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : [object Object]
+[2021-10-09 16:01:59.959084] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : ConnectVideoManager updateVideoUI() Triggering UI updates - heavy operation
+[2021-10-09 16:01:59.963082] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : ConnectVideoManager updateVideoUI() Triggering UI updates - heavy operation
+[2021-10-09 16:01:59.992250] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : ConnectVideoManager updateVideoUI() Triggering UI updates - heavy operation
+[2021-10-09 16:01:59.994248] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : className?? : AudioVideoStreamHandler play() mediaType : video
+[2021-10-09 16:02:00.000245] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : ConnectVideoManager updateStreamSize VideoCellInfo for user 2 on updateStreamSize :
+[2021-10-09 16:02:00.000245] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : ConnectVideoManager : [object Object]
+[2021-10-09 16:02:00.139630] [0x0000282c] (info) : CNetStreamHandler nsID_7 :: onStatus() :: NetStream.Play.Stop
+[2021-10-09 16:02:00.139630] [0x0000282c] (info) : CNetStreamHandler nsID_7 :: onStatus() :: NetStream.Play.Reset
+[2021-10-09 16:02:00.139630] [0x0000282c] (info) : CNetStreamHandler nsID_7 :: onStatus() :: NetStream.Play.Start
+[2021-10-09 16:02:00.139630] [0x0000282c] (info) : CNetStreamHandler nsID_7 :: onStatus() :: NetStream.Data.Start
+[2021-10-09 16:02:00.139630] [0x0000282c] (info) : CNetStreamHandler nsID_7 :: onStatus() :: NetStream.Data.Start
+[2021-10-09 16:02:00.356278] [0x0000282c] (info) : CNetStreamHandler nsID_7 :: onStatus() :: NetStream.Data.Start
+[2021-10-09 16:02:03.002455] [0x0000282c] (info) : Frame drop stats : 15 for nsID_7, in last 5 seconds
+[2021-10-09 16:02:08.072230] [0x0000282c] (info) : Frame drop stats : 0 for nsID_7, in last 5 seconds
+[2021-10-09 16:02:13.125889] [0x0000282c] (info) : Frame drop stats : 0 for nsID_7, in last 5 seconds
+[2021-10-09 16:02:18.175253] [0x0000282c] (info) : Frame drop stats : 0 for nsID_7, in last 5 seconds
+[2021-10-09 16:02:23.220100] [0x0000282c] (info) : Frame drop stats : 0 for nsID_7, in last 5 seconds
+[2021-10-09 16:02:28.267749] [0x0000282c] (info) : Frame drop stats : 0 for nsID_7, in last 5 seconds
+[2021-10-09 16:02:30.997877] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : className?? : AudioStreamManager_id 5148 :: handlePauseResumeRecording : Stopping all recording audio streams
+[2021-10-09 16:02:30.998878] [0x00000588] (info) : JS : (index.47014d4bca0246560d4a.js?0ee2d935c0e9d90c8ca2:1) : AudioWrapper : nsID_7 audioWrapper paused
+[2021-10-09 16:02:31.116908] [0x0000282c] (warning) : AudioPlayback : Wanted 480 frames got 0 frames
+[2021-10-09 16:02:31.116908] [0x0000282c] (warning) : AudioPlayback : StreamId = 1, buffer = 4173
+[2021-10-09 16:02:31.116908] [0x0000282c] (info) : CNetStreamHandler nsID_7 :: onStatus() :: NetStream.Pause.Notify
+[2021-10-09 16:02:32.231925] [0x00000588] (info) : Closing Log File
